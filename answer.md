@@ -25,3 +25,8 @@
 ![image](https://user-images.githubusercontent.com/113675674/214068613-c16e82ae-2559-47de-a29f-f0d701be5698.png)  
 
 
+## Задача 7.   
+### Удалить каждый второй элемент  
+![image](https://user-images.githubusercontent.com/113675674/214069797-9e6c51d7-05fa-4f11-853f-06c525936430.png)  
+
+
