@@ -1,1 +1,22 @@
+## Задача 1.   
+### Длина массива  
+![image](https://user-images.githubusercontent.com/113675674/213995492-811da302-0185-4075-9a0b-41d06aed6535.png)  
+
+## Задача 2.   
+### Сумму всех элементов  
+![image](https://user-images.githubusercontent.com/113675674/213995642-aed0e2cb-9ca4-4d53-a51d-f9a3aa1fec37.png)  
+
+## Задача 3.   
+### Максимальный элемент  
+![image](https://user-images.githubusercontent.com/113675674/213996031-35247882-8077-4d4c-9ef1-53f6fb3f0c5e.png)  
+
+
+## Задача 4.   
+### Добавление элемента  
+![image](https://user-images.githubusercontent.com/113675674/213997933-d5bbf0e7-96b3-4b97-aaf9-672f6c10d49f.png)  
+
+
+## Задача 5.   
+###  Умножения значений  
+![image](https://user-images.githubusercontent.com/113675674/214001441-7373e589-52cd-4090-82f2-44cb4a8e3832.png)  
 
