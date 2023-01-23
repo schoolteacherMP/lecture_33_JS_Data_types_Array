@@ -20,3 +20,8 @@
 ###  Умножения значений  
 ![image](https://user-images.githubusercontent.com/113675674/214001441-7373e589-52cd-4090-82f2-44cb4a8e3832.png)  
 
+## Задача 6.   
+### Массив содержит значение?  
+![image](https://user-images.githubusercontent.com/113675674/214068613-c16e82ae-2559-47de-a29f-f0d701be5698.png)  
+
+
