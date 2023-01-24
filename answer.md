@@ -29,4 +29,7 @@
 ### Удалить каждый второй элемент  
 ![image](https://user-images.githubusercontent.com/113675674/214069797-9e6c51d7-05fa-4f11-853f-06c525936430.png)  
 
+## Задача 8.   
+### Сумма положительных элементов  
+![image](https://user-images.githubusercontent.com/113675674/214228658-5fbb8612-26c3-4217-8e42-693d085733cf.png)  
 
