@@ -37,4 +37,7 @@
 ### Сумма положительных элементов  
 ![image](https://user-images.githubusercontent.com/113675674/214228658-5fbb8612-26c3-4217-8e42-693d085733cf.png)  
 
+## Задача 10.   
+### Sum Mixed Array  
+![image](https://user-images.githubusercontent.com/113675674/214231689-007c5b69-3a11-4bce-9bc1-fe9895421aab.png)
 
