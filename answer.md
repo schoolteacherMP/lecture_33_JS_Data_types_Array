@@ -30,9 +30,11 @@
 ![image](https://user-images.githubusercontent.com/113675674/214069797-9e6c51d7-05fa-4f11-853f-06c525936430.png)  
 
 ## Задача 8.   
+### Сумма всех чисел  
+![image](https://user-images.githubusercontent.com/113675674/214230133-01a254c5-ad2c-4eef-95f8-474b0ceb964e.png)  
+
+## Задача 9.   
 ### Сумма положительных элементов  
 ![image](https://user-images.githubusercontent.com/113675674/214228658-5fbb8612-26c3-4217-8e42-693d085733cf.png)  
 
-## Задача 9.   
-### Сумма всех чисел  
-![image](https://user-images.githubusercontent.com/113675674/214230133-01a254c5-ad2c-4eef-95f8-474b0ceb964e.png)  
+
