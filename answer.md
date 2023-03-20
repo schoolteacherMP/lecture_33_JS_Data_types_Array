@@ -27,11 +27,13 @@
 
 ## Задача 7.   
 ### Удалить каждый второй элемент  
-![image](https://user-images.githubusercontent.com/113675674/214069797-9e6c51d7-05fa-4f11-853f-06c525936430.png)  
+![image](https://user-images.githubusercontent.com/113675674/226305758-8f550bd6-1df3-4ee9-ab7e-a21e35a89639.png)  
+
 
 ## Задача 8.   
 ### Сумма всех чисел  
-![image](https://user-images.githubusercontent.com/113675674/214230133-01a254c5-ad2c-4eef-95f8-474b0ceb964e.png)  
+![image](https://user-images.githubusercontent.com/113675674/226305855-acfd24b7-7e99-45fd-b60b-12a696462f8e.png)  
+
 
 ## Задача 9.   
 ### Сумма положительных элементов  
@@ -41,3 +43,6 @@
 ### Sum Mixed Array  
 ![image](https://user-images.githubusercontent.com/113675674/214231689-007c5b69-3a11-4bce-9bc1-fe9895421aab.png)
 
+## Задача 11.   
+### Сумма только чисел  
+![image](https://user-images.githubusercontent.com/113675674/226306172-76e1328a-a50b-4772-b57d-0380cd8c4786.png)  
